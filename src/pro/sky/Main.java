@@ -21,15 +21,18 @@ public class Main {
         System.out.println("Задача 2");
 
         for (int i = 0; i <= arrayOne.length - 2; i++) {
-            System.out.print(arrayOne[i] + ",");}
+            System.out.print(arrayOne[i] + ",");
+        }
             System.out.println(arrayOne[arrayOne.length - 1]);
 
         for (int i = 0; i <= arrayTwo.length - 2; i++) {
-            System.out.print(arrayTwo[i] + ",");}
+            System.out.print(arrayTwo[i] + ",");
+        }
             System.out.println(arrayTwo[arrayTwo.length - 1]);
 
         for (int i = 0; i <= arrayThree.length - 2 ; i++) {
-            System.out.print(arrayThree[i] + ",");}
+            System.out.print(arrayThree[i] + ",");
+        }
             System.out.println(arrayThree[arrayThree.length - 1]);
 
 
@@ -38,19 +41,22 @@ public class Main {
         System.out.println("Задача 3");
 
         for (int i = arrayOne.length - 1; i > 0; i--) {
-            System.out.print(arrayOne[i] + ",");}
+            System.out.print(arrayOne[i] + ",");
+        }
             System.out.print(arrayOne[0]);
 
         System.out.println();
 
         for (int i = arrayTwo.length - 1; i > 0; i--) {
-            System.out.print(arrayTwo[i] + ",");}
+            System.out.print(arrayTwo[i] + ",");
+        }
             System.out.print(arrayTwo[0]);
 
         System.out.println();
 
         for (int i = arrayThree.length - 1; i > 0; i--) {
-            System.out.print(arrayThree[i] + ",");}
+            System.out.print(arrayThree[i] + ",");
+        }
             System.out.println(arrayThree[0]);
 
 
@@ -64,7 +70,8 @@ public class Main {
            }
         }
         for (int i = 0; i <= arrayOne.length - 2; i++) {
-            System.out.print(arrayOne[i] + ",");}
+            System.out.print(arrayOne[i] + ",");
+        }
             System.out.println(arrayOne[arrayOne.length - 1]);
 
 
